@@ -2,6 +2,17 @@
  * Styles for the cqfd theme.
  */
 
+/* Carousel */
+.carousel-control.right,
+.carousel-control.left {
+  background-image: none;
+}
+
+.carousel-control .icon-next {
+  font-size: 100px;
+  color: grey;
+}
+
 footer .block:first-child h2.block-title {
   margin-top: 20px;
 }
