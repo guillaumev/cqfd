@@ -3,6 +3,20 @@
  */
 
 /* Carousel */
+.carousel-inner {
+  width: 80%;
+  margin: auto;
+}
+
+.carousel-inner .img-responsive,
+.carousel-inner .field-item {
+  display: inline;
+}
+
+.carousel-indicators {
+  display: none;
+}
+
 .carousel-control.right,
 .carousel-control.left {
   background-image: none;
