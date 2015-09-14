@@ -2,6 +2,10 @@
  * Styles for the cqfd theme.
  */
 
+p {
+  text-align: justify;
+}
+
 /* Carousel */
 .carousel-inner {
   width: 80%;
