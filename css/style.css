@@ -6,6 +6,10 @@ p {
   text-align: justify;
 }
 
+.geo {
+  display: none;
+}
+
 /* Carousel */
 .carousel-inner {
   width: 80%;
