@@ -40,6 +40,11 @@ p {
 /* Footer */
 footer {
   background-color: #472D0B;
+  color: #ffffff;
+}
+
+footer a {
+  color: #ffffff;
 }
 
 footer .block:first-child h2.block-title {
