@@ -10,6 +10,7 @@ p {
   display: none;
 }
 
+
 /* Carousel */
 .carousel-inner {
   width: 80%;
@@ -34,6 +35,11 @@ p {
 .carousel-control .icon-prev {
   font-size: 100px;
   color: grey;
+}
+
+/* Footer */
+footer {
+  background-color: #472D0B;
 }
 
 footer .block:first-child h2.block-title {
