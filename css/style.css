@@ -51,3 +51,7 @@ footer .block:first-child h2.block-title {
   margin-top: 20px;
 }
 
+/* News */
+div.field-post-date {
+  font-style: italic;
+}
