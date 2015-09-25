@@ -75,11 +75,12 @@ div.region-content h2, h2 > a{
     background-color: transparent !important;
     border-color: #DDDDDD;
     color: #74B331 !important;
+    box-shadow: 0 0 10px #555555;
 }
 
-.panel {
+/*.panel {
 box-shadow: 0 0 10px #555555;
-}
+}*/
  
 /* Footer */
 footer {
