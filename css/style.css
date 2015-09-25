@@ -54,7 +54,12 @@ color:#74B331 !important;
  }
  
 /*body*/
-
+div.region-content img,
+div.region-content iframe{
+	border-radius: 0px / 65px;  
+	box-shadow: 0 0 10px #555; 
+	border-radius: 8px;
+}
  
 /* Footer */
 footer {
