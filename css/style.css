@@ -6,7 +6,9 @@ p {
   text-align: justify;
 }
 
-h1{
+h1, b, strong{
+color: #482F0D;
+{
   color: #482F0D!important;
 }
 
