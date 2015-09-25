@@ -10,6 +10,10 @@ h1, b, strong{
   color: #482F0D!important;
 }
 
+h2{
+   color: #482F0D;
+}
+
 .geo {
   display: none;
 }
