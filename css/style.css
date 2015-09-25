@@ -10,10 +10,6 @@ h1, b, strong, a{
   color: #482F0D!important;
 }
 
-/*h2, h2 > a{
-   color: #74B331!important;
-}*/
-
 .geo {
   display: none;
 }
@@ -67,6 +63,10 @@ div.region-content iframe{
 	border-radius: 0px / 65px;  
 	box-shadow: 0 0 10px #555; 
 	border-radius: 8px;
+}
+
+div.region-contenth2, h2 > a{
+   color: #74B331!important;
 }
  
 /* Footer */
