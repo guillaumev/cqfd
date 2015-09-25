@@ -76,6 +76,10 @@ div.region-content h2, h2 > a{
     border-color: #DDDDDD;
     color: #74B331 !important;
 }
+
+.panel {
+box-shadow: 0 0 10px #555555;
+}
  
 /* Footer */
 footer {
