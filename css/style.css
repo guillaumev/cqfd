@@ -57,12 +57,12 @@ color:#74B331 !important;
 /* Footer */
 footer {
   background-color: #472D0B;
-  color: #ffffff !important;
   text-align:center;
 }
 
 footer h2{
   text-align:center;
+   color: #ffffff;
 }
 
 footer a {
