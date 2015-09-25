@@ -53,6 +53,12 @@ color:#74B331 !important;
  font-weight: bold;
  }
  
+/*body*/
+img, iframe{
+	border-radius: 0px / 65px;  
+	box-shadow: 0 0 10px #555; 
+	border-radius: 8px;
+}
  
 /* Footer */
 footer {
