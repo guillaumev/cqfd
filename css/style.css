@@ -53,6 +53,14 @@ color:#74B331 !important;
  font-weight: bold;
  }
  
+/*header*/
+header{
+	padding-top: 35px;
+	padding-bottom:35px;
+	background-color: #472D0B;
+	color: #ffffff;
+}
+ 
 /*body*/
 div.region-content img,
 div.region-content iframe{
