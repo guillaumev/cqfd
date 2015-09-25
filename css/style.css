@@ -6,6 +6,10 @@ p {
   text-align: justify;
 }
 
+h1{
+  color: #482F0D!important;
+}
+
 .geo {
   display: none;
 }
