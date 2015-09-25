@@ -11,7 +11,7 @@ h1, b, strong, a{
 }
 
 h2, h2 > a{
-   color: #74B331;
+   color: #74B331!important;
 }
 
 .geo {
