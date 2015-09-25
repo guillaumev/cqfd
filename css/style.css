@@ -68,6 +68,14 @@ div.region-content iframe{
 div.region-content h2, h2 > a{
    color: #74B331!important;
 }
+
+/*accueil*/
+
+.panel-default > .panel-heading {
+    background-color: transparent !important;
+    border-color: #DDDDDD;
+    color: #74B331 !important;
+}
  
 /* Footer */
 footer {
