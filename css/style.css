@@ -54,4 +54,6 @@ footer .block:first-child h2.block-title {
 /* News */
 div.field-name-post-date {
   font-style: italic;
+  font-weight: bold;
+  color: #482F0D;
 }
