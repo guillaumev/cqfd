@@ -58,6 +58,11 @@ color:#74B331 !important;
 footer {
   background-color: #472D0B;
   color: #ffffff;
+  text-align:center;
+}
+
+footer h2{
+  text-align:center;
 }
 
 footer a {
