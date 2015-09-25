@@ -45,6 +45,15 @@ h2, h2 > a{
   color: grey;
 }
 
+/* Menu */
+.navbar-default .navbar-nav > .active > a, 
+.navbar-nav > li > a:hover, 
+.navbar-nav > li > a:active{ 
+color:#74B331 !important;
+ font-weight: bold;
+ }
+ 
+ 
 /* Footer */
 footer {
   background-color: #472D0B;
