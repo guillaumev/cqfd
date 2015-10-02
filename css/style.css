@@ -49,6 +49,10 @@ color:#74B331 !important;
  font-weight: bold;
  }
  
+ .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: transparent;
+}
+ 
  .navbar {
     background-color: transparent;
     border-color: transparent;
