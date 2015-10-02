@@ -51,14 +51,17 @@ color:#74B331 !important;
  
 /*header*/
 #page-header {
+	height:100%;
+	background-image:url(../images/accueil.png);
+}
+
+#page-header p{
 	padding-top: 25px;
 	padding-bottom:25px;
 	background-color: #472D0B;
 	color: #ffffff;
-	height:100%;
-	background-image:url(../images/accueil.png);
-}
- 
+} 
+
 /*body*/
 div.region-content img,
 div.region-content iframe{
