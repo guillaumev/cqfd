@@ -50,7 +50,7 @@ color:#74B331 !important;
  }
  
 /*header*/
-header{
+#page-header {
 	padding-top: 25px;
 	padding-bottom:25px;
 	background-color: #472D0B;
