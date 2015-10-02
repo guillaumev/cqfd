@@ -100,6 +100,11 @@ div.region-content h2, h2 > a{
 
 /*accueil*/
 
+body.front .page-header {
+	display:none;
+}
+
+
 .panel-default > .panel-heading {
     background-color: transparent !important;
     border-color: #DDDDDD;
