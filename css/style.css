@@ -54,6 +54,7 @@ color:#74B331 !important;
 	height:100%;
 	background-image:url(../images/accueil.png) no-repeat;
 	position: relative;
+	padding-top: 25%;
 }
 
 #page-header p{
