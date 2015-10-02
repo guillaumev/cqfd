@@ -49,6 +49,11 @@ color:#74B331 !important;
  font-weight: bold;
  }
  
+ .navbar {
+    background-color: transparent;
+    border-color: transparent;
+}
+ 
 /*header*/
 #page-header {
 	height:100%;
