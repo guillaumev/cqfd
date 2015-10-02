@@ -57,6 +57,10 @@ color:#74B331 !important;
     background-color: transparent;
     border-color: transparent;
 }
+
+a.logo img {
+  width: 200px;
+}
  
 /*header*/
 #page-header {
