@@ -111,9 +111,19 @@ body.front .page-header {
     color: #74B331 !important;
 }
 
-.panel {
-box-shadow: 0 0 10px #555555;
+.front .panel {
+  box-shadow: 0 0 10px #555555;
+  max-width: 250px;
+  min-height: 250px;
+  margin: auto;
 }
+
+@media (min-width: 768px) {
+  .home-panel-lower {
+    margin-top: 100px;
+  }
+}
+
  
 /* Footer */
 footer {
