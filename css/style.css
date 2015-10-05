@@ -150,6 +150,10 @@ footer .block:first-child h2.block-title {
   margin-top: 20px;
 }
 
+footer #block-block-2 {
+  font-size: 10px;
+}
+
 /* News */
 div.field-name-post-date {
   font-style: italic;
