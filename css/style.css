@@ -126,6 +126,7 @@ body.front .page-header {
 .panel-default > .panel-heading {
 	background-image:url(../images/ecoconstruction.png);
 	background-repeat: no-repeat;
+	background-position: center;
 }
 
 .front .panel {
