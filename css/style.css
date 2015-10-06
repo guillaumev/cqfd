@@ -19,19 +19,14 @@ h1, b, strong, a{
 .carousel-inner {
   width: 80%;
   margin: auto;
-  height: 520px;
+  min-height: 520px;
 }
 
 .carousel-inner img{
-	margin-bottom:20px;
-}
-
-@media (min-width: 768px) {
-  .carousel-inner img {
-    margin-left: 5px;
-    margin-right: 5px;
-    max-width: 210px;
-  }
+  margin-bottom:20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  max-width: 210px;
 }
 
 .carousel-inner .img-responsive,
