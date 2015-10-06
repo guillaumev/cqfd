@@ -129,6 +129,30 @@ body.front .page-header {
 	background-position: center;
 }
 
+.renovation > .panel-heading {
+	background-image:url(../images/renovation.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.charpente > .panel-heading {
+	background-image:url(../images/charpente.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.menuiserie > .panel-heading {
+	background-image:url(../images/menuiseries.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.neuf > .panel-heading {
+	background-image:url(../images/neuf.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
 .front .panel {
   box-shadow: 0 0 10px #555555;
   max-width: 250px;
