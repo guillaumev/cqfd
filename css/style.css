@@ -153,6 +153,11 @@ footer a {
   color: #ffffff;
 }
 
+footer a:hover, 
+footer a:active { 
+  color:#ffffff;
+}
+
 footer .block:first-child h2.block-title {
   margin-top: 20px;
 }
