@@ -19,7 +19,7 @@ h1, b, strong, a{
 .carousel-inner {
   width: 80%;
   margin: auto;
-  min-height: 520px;
+  min-height: 550px;
 }
 
 .carousel-inner img{
