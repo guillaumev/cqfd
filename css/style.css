@@ -118,9 +118,10 @@ body.front .page-header {
 
 
 .panel-default > .panel-heading {
-    background-color: transparent;
-    border-color: #DDDDDD;
-    color: #74B331;
+  background-color: transparent;
+  border-color: #DDDDDD;
+  color: #74B331;
+  font-size: 16px;
 }
 
 .panel-default > .panel-heading > img {
