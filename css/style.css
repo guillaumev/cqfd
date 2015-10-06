@@ -123,35 +123,6 @@ body.front .page-header {
     color: #74B331;
 }
 
-/*.ecoconstruction > .panel-heading {
-	background-image:url(../images/ecoconstruction.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.renovation > .panel-heading {
-	background-image:url(../images/renovation.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.charpente > .panel-heading {
-	background-image:url(../images/charpente.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.menuiserie > .panel-heading {
-	background-image:url(../images/menuiseries.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.neuf > .panel-heading {
-	background-image:url(../images/neuf.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}*/
 .panel-default > .panel-heading > img {
   margin-top: -2em;
   margin-left: 40%;
@@ -162,12 +133,15 @@ body.front .page-header {
 
 .front .panel {
   box-shadow: 0 0 10px #555555;
-  max-width: 250px;
   min-height: 250px;
   margin: auto;
+  margin-top: 2em;
 }
 
 @media (min-width: 768px) {
+  .front .panel {
+    max-width: 250px;
+  }
   .home-panel-lower {
     margin-top: 100px;
   }
