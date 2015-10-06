@@ -123,7 +123,7 @@ body.front .page-header {
     color: #74B331;
 }
 
-.panel-default ecoconstruction > .panel-heading {
+.ecoconstruction > .panel-heading {
 	background-image:url(../images/ecoconstruction.png);
 	background-repeat: no-repeat;
 	background-position: center;
