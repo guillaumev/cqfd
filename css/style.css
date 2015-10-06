@@ -2,6 +2,10 @@
  * Styles for the cqfd theme.
  */
 
+body {
+  font-family: "Radley", serif;
+}
+
 p {
   text-align: justify;
 }
