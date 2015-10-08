@@ -117,8 +117,8 @@
 <div class="main-container <?php print $container_class; ?>">
 
   <header role="banner" id="page-header">
-    <?php if (!empty($site_slogan)): ?>
-      <p class="lead"><?php print $site_slogan; ?></p>
+    <?php if (!empty($title)): ?>
+      <p class="lead"><?php print $title; ?></p>
     <?php endif; ?>
 
     <?php print render($page['header']); ?>
