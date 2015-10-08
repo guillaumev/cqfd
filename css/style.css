@@ -122,6 +122,7 @@ body.front .page-header {
   border-color: #DDDDDD;
   color: #74B331;
   font-size: 16px;
+  font-weight: bold;
 }
 
 .panel-default > .panel-heading > img {
