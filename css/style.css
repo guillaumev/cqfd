@@ -110,6 +110,10 @@ div.region-content h2, h2 > a{
    color: #74B331;
 }
 
+div.region-content a {
+  font-weight: bold;
+}
+
 /*accueil*/
 
 body.front .page-header {
