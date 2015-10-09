@@ -3,7 +3,7 @@
  */
 
 body {
-  font-family: "Radley", serif;
+  font-family: "Orienta", serif;
 }
 
 p {
@@ -110,6 +110,10 @@ div.region-content h2, h2 > a{
    color: #74B331;
 }
 
+div.region-content a {
+  font-weight: bold;
+}
+
 /*accueil*/
 
 body.front .page-header {
@@ -118,49 +122,32 @@ body.front .page-header {
 
 
 .panel-default > .panel-heading {
-    background-color: transparent;
-    border-color: #DDDDDD;
-    color: #74B331;
+  background-color: transparent;
+  border-color: #DDDDDD;
+  color: #74B331;
+  font-size: 16px;
+  font-weight: bold;
 }
 
-.ecoconstruction > .panel-heading {
-	background-image:url(../images/ecoconstruction.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.renovation > .panel-heading {
-	background-image:url(../images/renovation.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.charpente > .panel-heading {
-	background-image:url(../images/charpente.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.menuiserie > .panel-heading {
-	background-image:url(../images/menuiseries.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
-
-.neuf > .panel-heading {
-	background-image:url(../images/neuf.png);
-	background-repeat: no-repeat;
-	background-position: center;
+.panel-default > .panel-heading > img {
+  margin-top: -2em;
+  margin-left: 40%;
+  display: block;
+  border: none;
+  box-shadow: none;
 }
 
 .front .panel {
   box-shadow: 0 0 10px #555555;
-  max-width: 250px;
   min-height: 250px;
   margin: auto;
+  margin-top: 2em;
 }
 
 @media (min-width: 768px) {
+  .front .panel {
+    max-width: 250px;
+  }
   .home-panel-lower {
     margin-top: 100px;
   }
