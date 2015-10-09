@@ -74,11 +74,11 @@ h1, b, strong, a{
 }
 
 .navbar-nav > li > a {
-    font-size: 18px;
+    font-size: 15px;
 }
 
 a.logo img {
-  width: 200px;
+  width: 300px;
 }
  
 /*header*/
