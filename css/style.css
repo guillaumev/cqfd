@@ -90,6 +90,14 @@ a.logo img {
 	background-repeat: no-repeat;
 }
 
+body.page-news #page-header {
+  background-image: url(../images/background1.png);
+}
+
+body.page-realisations #page-header {
+  background-image: url(../images/background2.png);
+}
+
 #page-header p{
 	padding-top: 25px;
 	padding-bottom:25px;
