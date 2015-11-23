@@ -98,6 +98,10 @@ body.page-realisations #page-header {
   background-image: url(../images/background2.png);
 }
 
+body.page-node-1 #page-header {
+  background-image: url(../images/background3.jpg);
+}
+
 #page-header p{
 	padding-top: 25px;
 	padding-bottom:25px;
