@@ -84,22 +84,26 @@ a.logo img {
  
 /*header*/
 #page-header {
-	height:100%;
-	background-image:url(../images/accueil.png);
-	padding-top: 350px;
-	background-repeat: no-repeat;
+  height:100%;
+  background-image:url(../images/background1.png);
+  padding-top: 350px;
+  background-repeat: no-repeat;
 }
 
 body.page-news #page-header {
-  background-image: url(../images/background1.png);
-}
-
-body.page-realisations #page-header {
   background-image: url(../images/background2.png);
 }
 
-body.page-node-1 #page-header {
+body.page-realisations #page-header {
   background-image: url(../images/background3.jpg);
+}
+
+body.page-node-1 #page-header {
+  background-image: url(../images/background4.jpg);
+}
+
+body.page-node-3 #page-header {
+  background-image: url(../images/background5.jpg);
 }
 
 #page-header p{
